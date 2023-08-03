@@ -1,4 +1,4 @@
-import { categoryInterface, destinationInterface } from "../context/dataProp";
+import { categoryInterface, destinationInterface } from "../types/dataProp";
 
 export const sortCategoryData: string[] = ['All', 'Popular', 'Recommended', 'More'];
 
